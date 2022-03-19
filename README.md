@@ -29,7 +29,9 @@
 ```
 
 Ссылки для скачивания:
+
 [скачать архив для apple m1](https://github.com/kintechi341/DosiaHelp/raw/main/apple_m1_client(ARM64).zip)
+
 [скачать архив для windows](https://github.com/kintechi341/DosiaHelp/raw/main/windows_x64_client.zip)
 
 ***Вы можете запускать несколько экземпляров программы, в зависимости от вашего интернет-соединения и мощности ПК***
