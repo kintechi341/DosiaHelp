@@ -10,7 +10,7 @@
 ```shell
 1. Включите VPN
 
-2. Если компьютер на Apple M1, загрузите приложение по сслыке "скачать архив для apple m1"
+2. Если компьютер на Apple M1, загрузите приложение по сслыке [скачать архив для apple m1](https://github.com/kintechi341/DosiaHelp/raw/main/apple_m1_client(ARM64).zip)
  
 3. Запустите распакованный файл
 
@@ -21,7 +21,7 @@
 ```shell
 1. Включите VPN
 
-2. Если компьютер на Apple M1, загрузите приложение по сслыке "скачать архив для windows"
+2. Если компьютер на Apple M1, загрузите приложение по ссылке [скачать архив для windows](https://github.com/kintechi341/DosiaHelp/raw/main/windows_x64_client.zip)
 
 3. Запустите распакованный файл
 
@@ -29,6 +29,7 @@
 ```
 
 Ссылки для скачивания:
-[скачать архив для apple m1](https://github.com/kintechi341/DosiaHelp/blob/main/apple_m1_client(ARM64).zip)
+[скачать архив для apple m1](https://github.com/kintechi341/DosiaHelp/raw/main/apple_m1_client(ARM64).zip)
+[скачать архив для windows](https://github.com/kintechi341/DosiaHelp/raw/main/windows_x64_client.zip)
 
 ***Вы можете запускать несколько экземпляров программы, в зависимости от вашего интернет-соединения и мощности ПК***
