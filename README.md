@@ -19,8 +19,15 @@
 
 Ссылки для скачивания:
 
-[Mac M1](https://github.com/kintechi341/DosiaHelp/raw/main/apple_m1_client(ARM64).zip)
+[Mac M1](https://github.com/kintechi341/DosiaHelp/raw/main/macOS_arm64.zip)
+[Mac Intel](https://github.com/kintechi341/DosiaHelp/raw/main/macOS_x64.zip)
 
-[Windows](https://github.com/kintechi341/DosiaHelp/raw/main/windows_x64_client.zip)
+[Linux x32](https://github.com/kintechi341/DosiaHelp/raw/main/linux_x32.zip)
+[Linux x64](https://github.com/kintechi341/DosiaHelp/raw/main/linux_x64.zip)
+[Linux ARM](https://github.com/kintechi341/DosiaHelp/raw/main/linux_arm64.zip)
+
+[Windows x32](https://github.com/kintechi341/DosiaHelp/raw/main/windows_x32.zip)
+[Windows x64](https://github.com/kintechi341/DosiaHelp/raw/main/windows_x64.zip)
+[Windows ARM](https://github.com/kintechi341/DosiaHelp/raw/main/windows_arm64.zip)
 
 ***Вы можете запускать несколько экземпляров программы, в зависимости от вашего интернет-соединения и мощности ПК***
